@@ -1,0 +1,11 @@
+{
+  "customer_account_ref": "clinic-west",
+  "recipient_email": "operations@example.com",
+  "period_start": "2026-08-01",
+  "period_end": "2026-08-31",
+  "appointments": [
+    {"appointment_ref": "appt-100", "status": "completed"},
+    {"appointment_ref": "appt-101", "status": "cancelled"},
+    {"appointment_ref": "appt-102", "status": "completed"}
+  ]
+}
